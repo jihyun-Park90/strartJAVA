@@ -1,3 +1,3 @@
-# strartJAVA
+# JAVA 독학
 ## JAVA의 기본적 문법
-## JAVA 독학
+### 배운 문법 복기하기
